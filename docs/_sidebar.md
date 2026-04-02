@@ -6,19 +6,15 @@
 
 - **Tuần 2: Express.js & REST API cơ bản**
   - [📖 Bài giảng](week2/docs.md)
-  - [📝 Bài tập về nhà](week2/bai-tap.md)
 
 - **Tuần 3: Template Engine & Mô hình MVC**
   - [📖 Bài giảng](week3/docs.md)
-  - [📝 Bài tập về nhà](week3/bai-tap.md)
 
-- **Tuần 4: CRUD API với File System**
+- **Tuần 4: MongoDB & Mongoose**
   - [📖 Bài giảng](week4/docs.md)
-  - [📝 Bài tập về nhà](week4/bai-tap.md)
 
-- **Tuần 5: MongoDB & Mongoose**
+- **Tuần 5: Xây dựng API CRUD với Mongoose**
   - [📖 Bài giảng](week5/docs.md)
-  - [📝 Bài tập về nhà](week5/bai-tap.md)
 
 - **Tuần 6: Middleware & Xử lý lỗi**
   - [📖 Bài giảng](week6/docs.md)
