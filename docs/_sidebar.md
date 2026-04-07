@@ -15,6 +15,7 @@
 
 - **Tuần 5: Xây dựng API CRUD với Mongoose**
   - [📖 Bài giảng](week5/docs.md)
+  - [📝 Bài tập về nhà](week5/bai-tap.md)
 
 - **Tuần 6: Middleware & Xử lý lỗi**
   - [📖 Bài giảng](week6/docs.md)

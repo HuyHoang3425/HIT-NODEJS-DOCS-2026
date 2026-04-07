@@ -1,3 +1,7 @@
+# Link GitHub tham khảo sau mỗi buổi học
+
+[HIT-NODEJS-2026](https://github.com/HuyHoang3425/HIT-NODEJS-2026)
+
 # 🚀 LỘ TRÌNH KHÓA HỌC NODE.JS 2026
 
 |   Buổi    | Nội dung trọng tâm                 | Chi tiết bài học                                                                                                                                                   |
