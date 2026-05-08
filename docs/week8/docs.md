@@ -6,7 +6,7 @@ Bài giảng này sẽ giúp các bạn hiểu sâu về hai mô hình phân quy
 
 ---
 
-## 1. Mở đầu: Authentication vs Authorization
+## 1. Mở đầu: Authentication và Authorization
 
 Khi làm việc với bảo mật web, chúng ta thường gặp hai khái niệm thường xuyên đi đôi với nhau nhưng mang ý nghĩa hoàn toàn khác biệt:
 
